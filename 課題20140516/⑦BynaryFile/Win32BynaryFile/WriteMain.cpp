@@ -48,4 +48,5 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,PSTR lpCmdLine, 
 	CloseHandle(hFile);
 
 	return 0;
+	
 }
